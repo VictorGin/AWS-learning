@@ -1,0 +1,36 @@
+1. Analytics:
+- AWS MSK
+- AWS Lake formation
+
+2. App Integration
+- AppFlow
+
+3. Compute:
+- VMware Cloud
+
+4. Container
+- EKS anywhere
+- EKS distro
+- ECS anywhare
+
+5. DB
+- Keyspaces
+- Neptune
+- Quantum ledger
+
+6. Dev tools:
+- X-ray
+
+7. Front-end:
+- Amplify
+- Pinpoint
+
+8. ML
+
+9. Manage & Governance:
+- Managed grafana
+- Managed Prometheus
+- Proton
+
+10. Serverless
+- AppSync
